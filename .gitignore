@@ -1,0 +1,55 @@
+# Node modules and dependencies
+node_modules/
+
+# Nest.js build output
+dist/
+
+# Environment variables
+.env
+
+# Editor-specific files
+.vscode/
+.idea/
+
+# Log files
+*.log
+
+# Dependency lock files
+package-lock.json
+yarn.lock
+
+# Nest.js development specific files
+.nest/
+.nest-cli.json
+
+# Compiled TypeScript files
+*.js
+*.js.map
+
+# Jest coverage output
+coverage/
+
+# Mac OS specific files
+.DS_Store
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Optional: Docker related files if you use Docker
+# docker-compose.yml
+# Dockerfile
+
+# Optional: Heroku related files if you deploy to Heroku
+# .env.prod
+# Procfile
+
+# Optional: IDE specific settings if they are not covered above
+# Uncomment and add your IDE specific files if needed
+# .project
+# .classpath
+# .settings/
+# *.tmproj
+
+# Optional: Add any other specific files or directories you want to ignore
+# example.txt
+
